@@ -1,0 +1,41 @@
+{
+"roller": {
+"teyitcirol": "REGİSTER_ROL_İD",
+"erkekrol1": "ERKEK_ROL_1",
+"erkekrol2": "ERKEK_ROL_2",
+"erkekrol3": "ERKEK_ROL_3",
+"kadınrol1": "KADIN_ROL_1",
+"kadınrol2": "KADIN_ROL_2",
+"kadınrol3": "KADIN_ROL_3",
+"kayıtsızrol": "UNREGİSTER_ROL_İD",
+"karantinarol": "KARANTİNA_ROL_İD",
+"cezalırol": "CEZALI_ROL_İD",
+"booster": "BOOSTER_ROL_İD",
+"ekiprol": "TAG_ROL_İD "
+},
+
+"kanallar": {
+"kurallar": "KURALLAR_İD",
+"taglog": "TAG_LOG_İD",
+"genelchat": "GENEL_CHAT_İD"
+},
+
+"durumlar": {
+    "dogru": "OLUMLU_EMOJİ",
+    "yanlis": "OLUMSUZ_EMOJİ"
+},
+
+"taglar": {
+    "servertag": "TAGINIZ",
+    "untag": "▸"
+}, 
+
+"renk": {
+    "kirmizi": "#7a000f",
+    "mor": "#AF48F1",
+    "mavi": "#0f3057",
+    "altin": "#ffe5b9",
+    "special": "#cd5d7d",
+    "passmavi": "#3bbceb"
+} 
+}
